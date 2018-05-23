@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Personne id ="1">
+
+  <Nom>Hamidi</Nom>
+  <Prenom>Michael</Prenom>
+  <tel>07.00.00.00.00</tel>
+  <Adresse>Montlucon</Adresse>
+  <email>mycaelisamadeus@outlook.com</email>
+
+  <Entity>Stagiaire</Entity>
+  <Adresses>
+    <Adresse num="9b" rue ="Henri Rene Ribiere" CodePostal ="03100" Ville ="Montlucon" BoitePostal ="BP 608"/>
+  </Adresses>
+
+  <Absences>
+    <Absence id ="1" debut ="2017-09-18 00:00" fin ="2017-09-19 07:00"/>
+    <Absence id ="1" debut ="2017-09-17 00:00" fin ="2017-09-19 10:00"/>
+  </Absences>
+</Personne>
